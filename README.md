@@ -4,7 +4,7 @@
 
 <br clear="both">
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MahnoorTabassum.Mahnoor Tabassum&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MahnoorTabassum.MahnoorTabassum&"  />
 </div>
 
 
