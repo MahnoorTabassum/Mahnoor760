@@ -4,7 +4,7 @@
 
 <br clear="both">
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Mahnoor760&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MahnoorTabassum&"  />
 </div>
 
 
@@ -88,10 +88,10 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahnoor760&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahnoor760&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=discord_old_blurple&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Mahnoor760&locale=en&mode=daily&theme=discord_old_blurple&hide_border=true&border_radius=5&order=3&card_width=800" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahnoor760&radius=16&theme=react&area=true&hide_border=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MahnoorTabassum&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MahnoorTabassum&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=discord_old_blurple&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=MahnoorTabassum&locale=en&mode=daily&theme=discord_old_blurple&hide_border=true&border_radius=5&order=3&card_width=800" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahnoorTabassum&radius=16&theme=react&area=true&hide_border=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -99,8 +99,8 @@
 
 <!-- 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahnoor760&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false" height="150" alt="stats graph"  />
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahnoor760&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=vue&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Mahnoor760&locale=en&mode=daily&theme=vue&hide_border=false&border_radius=5&card_width=600" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MahnoorTabassum&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false" height="150" alt="stats graph"  />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MahnoorTabassum&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=vue&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=MahnoorTabassum&locale=en&mode=daily&theme=vue&hide_border=false&border_radius=5&card_width=600" height="200" alt="streak graph"  />
 </div> -->
 
